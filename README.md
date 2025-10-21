@@ -1,6 +1,6 @@
-## 1. Clone project on your directory
+## 1. Clone project
 ### git clone https://github.com/Tangg123/typescript-project-test.git 
-## 2. cd in folder directory 
+## 2. Move into project directory
 ### cd typescript-project-test 
 ## 3. Install Lib and Dependencies 
 ### write `npm install` on terminal
